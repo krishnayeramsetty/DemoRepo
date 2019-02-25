@@ -7,4 +7,12 @@ public class LoginPage {
 		System.out.println("loginPage");
 	}
 
+	
+	public void loginset() {
+		
+		System.out.println("loginset");
+	}
+	
+	
+	
 }
